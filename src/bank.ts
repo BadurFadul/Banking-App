@@ -1,6 +1,5 @@
 import Branch from "./Branch";
 import Customer from "./Customer";
-import Transaction from "./Transaction";
 
 
 class Bank {
